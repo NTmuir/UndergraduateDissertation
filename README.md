@@ -17,9 +17,6 @@ Below shows the theortical approach in derriving how a gradient function can be 
 
 ![image](https://user-images.githubusercontent.com/83457561/130152611-ab351412-46d5-48a8-9644-2f54244293c9.png)
 
-
-![image](https://user-images.githubusercontent.com/83457561/130152527-eba695d2-141c-4efc-8e3a-18768fe247af.png)
-
 Using 2D analysis to put a point of dynamic loading on the races of the bearing can emulate the effect of a pitted face in ANSYS (below)
 
 ![image](https://user-images.githubusercontent.com/83457561/130151607-44ed35d9-7965-491d-ba8e-8caba1330309.png)
