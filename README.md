@@ -1,8 +1,25 @@
 ## Undergraduate Dissertation
 All the code used for FFT analysis, EDM bearing life calculations and EDM circuitry simulations 
-Customer FEA data has been redacted to NDA
+Customer FEA data has been due to redacted to NDA
 
 # Key ideas
+The EDM model was build in simulink with a simscape plug in, it produced the following data which determines the average damage depth from pitting in the customers application 
+
+![image](https://user-images.githubusercontent.com/83457561/130152318-15669fcb-75ea-43df-a71a-573db4351cfc.png)
+
+Which allowed the time to failure to calculated at different pre-loads
+
+![image](https://user-images.githubusercontent.com/83457561/130152390-bc7e367b-d4bf-418a-9ddf-41edc1408e53.png)
+
+Which suggested that higher pre load increases life, due to having an increased contact patch. But will mean a decrease in mechanical life due to higher loads.
+
+Below shows the theortical approach in derriving how a gradient function can be used to correlate electromagnetic torque and effective air gap of the motor
+
+![image](https://user-images.githubusercontent.com/83457561/130152611-ab351412-46d5-48a8-9644-2f54244293c9.png)
+
+
+![image](https://user-images.githubusercontent.com/83457561/130152527-eba695d2-141c-4efc-8e3a-18768fe247af.png)
+
 Using 2D analysis to put a point of dynamic loading on the races of the bearing can emulate the effect of a pitted face in ANSYS (below)
 
 ![image](https://user-images.githubusercontent.com/83457561/130151607-44ed35d9-7965-491d-ba8e-8caba1330309.png)
