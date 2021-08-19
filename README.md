@@ -11,7 +11,7 @@ Which allowed the time to failure to calculated at different pre-loads
 
 ![image](https://user-images.githubusercontent.com/83457561/130152390-bc7e367b-d4bf-418a-9ddf-41edc1408e53.png)
 
-Which suggested that higher pre load increases life, due to having an increased contact patch. But will mean a decrease in mechanical life due to higher loads.
+Which suggested that higher pre load increases electrical life, due to having an increased contact patch. But will mean a decrease in mechanical life due to higher loads.
 
 Below shows the theortical approach in derriving how a gradient function can be used to correlate electromagnetic torque and effective air gap of the motor
 
