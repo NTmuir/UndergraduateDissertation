@@ -1,5 +1,5 @@
 ## Undergraduate Dissertation
-All the code used for FFT analysis, EDM bearing life calculations and EDM circuitry simulations 
+All the child items are the raw code that was used for FFT analysis, EDM bearing life calculations and EDM circuitry simulations 
 Customer FEA data has been due to redacted to NDA
 
 # Key ideas
