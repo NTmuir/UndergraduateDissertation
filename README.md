@@ -31,4 +31,4 @@ The displacement measured from FEA was applied to different theortical effective
 
 ![image](https://user-images.githubusercontent.com/83457561/130151522-8d09f2ed-0feb-4d79-b09f-77d3488509cb.png)
 
-So at maximium the customer would see a ~0.06% change in torque with pitted bearings, which is much less then typical torque ripple tolerances of ~1%
+So at maximium the customer would see a ~0.06% change in torque with pitted bearings, which is much less then typical torque ripple tolerances of ~1% with healthy bearings.
