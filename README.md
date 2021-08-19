@@ -11,9 +11,10 @@ Then performing FFT analysis from frequency response output ANSYS gave the key f
 
 ![image](https://user-images.githubusercontent.com/83457561/130151552-ea43995d-2f07-4c1a-88f3-45c2ab70a65e.png)
 
-The displacement measured from FEA was applied to different theortical effective air gaps to determine the torque variation  
+The displacement measured from FEA was applied to different theortical effective air gaps to determine the torque variation, which the table highlights for the customers model  
 
 ![image](https://user-images.githubusercontent.com/83457561/130151506-bea547a4-68c3-4a5e-9b61-35f30bf73feb.png)
 
 ![image](https://user-images.githubusercontent.com/83457561/130151522-8d09f2ed-0feb-4d79-b09f-77d3488509cb.png)
 
+So at maximium the customer would see a ~0.06% change in torque with pitted bearings, which is much less then typical torque ripple tolerances of ~1%
